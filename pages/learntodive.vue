@@ -1,13 +1,25 @@
+<style>
+</style>
 <template>
-    
+    <div>
+
+    </div>
 </template>
 
 <script>
     export default {
-        name: "learntodive"
+        layout: 'main',
+        data () {
+            return {
+                title: 'Dive PODI'
+            }
+        },
+        head () {
+            return {
+                title: this.title,
+                meta: [
+                ]
+            }
+        }
     }
 </script>
-
-<style scoped>
-
-</style>
