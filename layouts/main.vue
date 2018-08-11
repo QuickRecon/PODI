@@ -13,7 +13,7 @@
 </style>
 <template>
     <div>
-        <header id="luxbar" class="luxbar-fixed">
+        <header id="luxbar" class="luxbar-static">
             <input type="checkbox" class="luxbar-checkbox" id="luxbar-checkbox"/>
             <div class="luxbar-menu luxbar-menu-right luxbar-menu-material-red">
                 <ul class="luxbar-navigation">
@@ -24,7 +24,7 @@
                     </li>
                     <li class="luxbar-item"><a href="/">Home</a></li>
 
-                    <li class="luxbar-item"><a href="#">Why Dive PODI?</a></li>
+                    <li class="luxbar-item"><a href="/whypodi">Why Dive PODI?</a></li>
 
                     <li class="luxbar-item"><a href="#">Learn to Dive</a></li>
                     <li class="luxbar-item dropdown"><a href="#">Specialties</a>
@@ -53,7 +53,7 @@
                         We will be happy to take you along to try diving the PODI way, the way of the future.</p>
                     </div>
                     <div class="col l4 offset-l2 s12">
-                        <h5 class="white-text">What we offer</h5>
+                        <h5 class="white-text">What we offer:</h5>
                         <ul>
                             <li><a class="grey-text text-lighten-3" href="#!">Courses</a></li>
                             <li><a class="grey-text text-lighten-3" href="#!">PODI Pro</a></li>
