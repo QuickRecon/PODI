@@ -2,7 +2,7 @@
 </style>
 <template>
     <div>
-        <img src="/images/carousel7.JPG" style="width:100%; height: 700px; object-fit: cover">
+
     </div>
 </template>
 

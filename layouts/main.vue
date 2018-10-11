@@ -18,7 +18,7 @@
             <div class="luxbar-menu luxbar-menu-right luxbar-menu-material-red">
                 <ul class="luxbar-navigation">
                     <li class="luxbar-header">
-                        <a href="#" class="luxbar-brand">PODI</a>
+                        <a href="/" class="luxbar-brand"><img src="/PODI.png" class="luxbar-brand" style="height: 75px"></a>
                         <label class="luxbar-hamburger luxbar-hamburger-doublespin"
                                id="luxbar-hamburger" for="luxbar-checkbox"> <span></span> </label>
                     </li>
@@ -35,6 +35,8 @@
                             <li class="luxbar-item" ><a href="/courses/motorcycle">Motorcycle</a></li>
                             <li class="luxbar-item" ><a href="/courses/nitrox">Nitrox</a></li>
                             <li class="luxbar-item" ><a href="/courses/wreck">Wreck</a></li>
+                            <li class="luxbar-item" ><a href="/courses/trust">Trust</a></li>
+                            <li class="luxbar-item" ><a href="/courses/sick">Sick</a></li>
                         </ul>
                     </li>
                     <li class="luxbar-item"><a href="/pro">PODI Pro</a></li>
