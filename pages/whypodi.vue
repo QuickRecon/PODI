@@ -25,7 +25,7 @@
              you with the ability to do what you want.</p>
 
             <h4><u>Our Instruction</u></h4>
-            <p class="paragraph"> Our instructor are hand picked in order to ensure that they reflect the PODI values
+            <p class="paragraph"> Our instructors are hand picked in order to ensure that they reflect the PODI values
              and are able to give divers proper instruction across all areas of our course. We require all instructors
              to be certified in all of our current course offerings, this allows them to provide a synergetic and
              integrated experience for divers who are DIP (Doing It PODI). This also guarantees that an instructor will
@@ -38,6 +38,12 @@
              achieve the level of diving they want in a time effective manner, with our "no-to-pro" programs we are
              able to turn even someone who has never even touched a regulator before into a PODI instructor in only a
              fortnight.</p>
+            <p class="paragraph">
+                Through our vast network of PODI dive vans, scattered all over the world, except for Australia of course
+                , we provide all instruction necessary. At PODI, we don't believe in the archaic model of giving dive
+                vans a star rating out of 5. We believe it is unfair to those dive vans who are less equipped; so
+                therefore we grant stars equally to all vans regardless of their level of competence.
+            </p>
         </div>
     </div>
 </template>
