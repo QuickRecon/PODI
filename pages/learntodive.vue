@@ -32,7 +32,7 @@
                 <li>Setting up and disassembling your gear in simulated 6m (20ft) swell.</li>
                 <li>Basic diving physiology, with an emphasis on how to argue about the best decompression models.</li>
                 <li>Standard diving skills such as mask clearing, emergency accents, and stashing bodies.</li>
-                <li>Buddy diving procedure such as</li>
+                <li>Independent diving, avoiding the risks and liability of buddy diving. </li>
             </ul>
         </div>
     </div>
